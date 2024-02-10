@@ -1,0 +1,22 @@
+.Navbar {
+  display: flex;
+  justify-content: center;
+  font-size: x-large;
+}
+.Registration-form {
+  margin: 10vh 9vw;
+  height: 70vh;
+}
+.col-12 {
+  margin-top: 30px;
+}
+
+.btn-block {
+  width: 20%;
+}
+
+#submit {
+  display: flex;
+  justify-content: center;
+  color: red;
+}

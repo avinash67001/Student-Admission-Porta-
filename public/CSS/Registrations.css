@@ -1,0 +1,22 @@
+h2 {
+  margin-left: 40vw;
+}
+table {
+  margin: 30px 175px;
+}
+.bi,
+.bi-trash {
+  display: flex;
+  align-items: center;
+  color: black;
+  cursor: pointer;
+  font-size: 20px;
+}
+a{
+  transition: transform 0.5s ease-in-out;
+}
+ a:hover{
+  text-decoration: none;
+  color: red;
+  transform: translate(0, -5px);
+ }
